@@ -14,7 +14,7 @@ python translate.py
 
 根据命令行提示，输入路径，即可开始翻译
 
-翻译后的文件生成在这个脚本所在的目录
+翻译后的文件生成在这个脚本所在目录下的output文件夹
 
 ## Credits
 `keyvalues.py` 来自 [valve-keyvalues-python](https://github.com/gorgitko/valve-keyvalues-python)
